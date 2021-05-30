@@ -1,0 +1,5 @@
+Django==1.4.2
+django-tastypie==0.9.14
+pyes==0.19.1
+argparse==1.2.1
+wsgiref==0.1.2
